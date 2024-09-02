@@ -51,3 +51,11 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavgithuber&theme=dracula&hide_border=false">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavgithuber&theme=dracula&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800">
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/VaishnavGithuber/VaishnavGithuber/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
