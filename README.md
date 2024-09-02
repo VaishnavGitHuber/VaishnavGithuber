@@ -47,9 +47,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavgithuber&theme=dracula&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavgithuber&theme=dracula&hide_border=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavgithuber&theme=dracula&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800">
+   <img src="https://github-readme-stats.vercel.app/api?username=VaishnavGithuber&theme=dracula&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnavGithuber&theme=dracula&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnavGithuber&theme=dracula&show_icons=true&hide_border=false&layout=compact&cache_seconds=1800">
 </div>
 
 <div align="center">
