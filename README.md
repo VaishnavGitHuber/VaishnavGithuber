@@ -1,6 +1,3 @@
-
-![](web_image.png)
-
 <h3 align="center">BUDDING DATA SCIENTIST FROM INDIA</h3>
 
 <br/>
@@ -19,7 +16,7 @@
  
  ⚡ALWAYS OPEN TO OTHERS
  
-
+![](web_image.png)
  </div>
 
 <div align="center"> 
