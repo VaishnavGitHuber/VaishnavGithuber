@@ -34,24 +34,25 @@
 <br/>
 <div align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875GF24W?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875GF24W?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge1.png" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/FV69A5ZX?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/FV69A5ZX?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge2.png" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/3RT5N3BH?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/3RT5N3BH?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge3.png" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/XMCUAXJY?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/XMCUAXJY?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge4.png" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875L3R4W?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875L3R4W?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge5.png" width="100" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/HAS59F68?sharingId=CC3084A9FCE47D1C">
-    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/HAS59F68?sharingId=CC3084A9FCE47D1C" width="100" />
+    <img src="badge6.png" width="100" />
   </a>
 </div>
+
 
 <hr/>
 
