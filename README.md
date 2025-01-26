@@ -8,11 +8,11 @@
  
  🌍  I'm based in **Bangalore, India**
  
- 🤝 I’m currently learning **Data Science,Michine Learning, Deep Learning, Full stack devolopment **
+ 🤝 I’m currently learning **Data Science, Machine Learning, Deep Learning, Full stack development**
 
  💬 Connect to me [PersonalWebsite Only for Desktop devices](https://Vaishnav2002.pythonanywhere.com)
 
- ⚡ MORE THAN 30+DATASCIENCE RELATED PROJECTS
+ ⚡ MORE THAN 30+ DATASCIENCE RELATED PROJECTS
  
  ⚡ALWAYS OPEN TO OTHERS
  
@@ -28,21 +28,44 @@
   </a>
 </div>
 
+<hr/>
 
- <hr/>
- 
+<h2 align="center">🏅 Badges 🏅</h2>
+<br/>
+<div align="center">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875GF24W?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875GF24W?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/FV69A5ZX?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/FV69A5ZX?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/3RT5N3BH?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/3RT5N3BH?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/XMCUAXJY?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/XMCUAXJY?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875L3R4W?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/875L3R4W?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/HAS59F68?sharingId=CC3084A9FCE47D1C">
+    <img src="https://learn.microsoft.com/api/achievements/share/en-in/VAISHNAVKRISHNAP-5812/HAS59F68?sharingId=CC3084A9FCE47D1C" width="100" />
+  </a>
+</div>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,vscode,django,python,html,css,java,c&perline=4" />
-<img src="https://skillicons.dev/icons?i=machinelearning,deeplearning&perline=2" /><br>
-
+    <img src="https://skillicons.dev/icons?i=machinelearning,deeplearning&perline=2" /><br>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=VaishnavGithuber&theme=dracula&show_icons=true&hide_border=false&count_private=true&cache_seconds=1800">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnavGithuber&theme=dracula&hide_border=true">
