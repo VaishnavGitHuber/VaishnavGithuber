@@ -10,7 +10,7 @@
  
  🤝 I’m currently learning **Data Science, Machine Learning, Deep Learning, Full stack development**
 
- 💬 Connect to me [PersonalWebsite Only for Desktop devices](https://Vaishnav2002.pythonanywhere.com)
+ 💬 Connect to me [PersonalWebsite](https://vaishnavgithuber.github.io/Portfolio2.0/)
 
  ⚡ MORE THAN 30+ DATASCIENCE RELATED PROJECTS
  
