@@ -29,20 +29,6 @@
 </div>
 <hr/>
 
-<h2 align="center">💻 LeetCode Stats 💻</h2>
-<br/>
-<div align="center">
-  <p><b>📈 170+ Problems Solved</b></p>
-  <a href="https://leetcode.com/medal/?showImg=0&id=8224497&isLevel=false" target="_blank">
-    <img src="50day_2024.png" width="120" />
-  </a>
-  <a href="https://leetcode.com/medal/?showImg=0&id=4000564&isLevel=false" target="_blank">
-    <img src="50day_2025.png" width="120" />
-  </a>
-</div>
-
-<hr/>
-
 <h2 align="center">🏅 Badges 🏅</h2>
 <br/>
 <div align="center">
