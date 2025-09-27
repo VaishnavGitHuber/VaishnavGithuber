@@ -34,10 +34,10 @@
 <div align="center">
   <p><b>📈 170+ Problems Solved</b></p>
   <a href="https://leetcode.com/medal/?showImg=0&id=8224497&isLevel=false" target="_blank">
-    <img src="https://leetcode.com/medal/?showImg=0&id=8224497&isLevel=false" width="120" />
+    <img src="leetcode_medal1.png" width="120" />
   </a>
   <a href="https://leetcode.com/medal/?showImg=0&id=4000564&isLevel=false" target="_blank">
-    <img src="https://leetcode.com/medal/?showImg=0&id=4000564&isLevel=false" width="120" />
+    <img src="leetcode_medal2.png" width="120" />
   </a>
 </div>
 
