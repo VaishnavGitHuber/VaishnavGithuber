@@ -27,6 +27,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<hr/>
+
+<h2 align="center">💻 LeetCode Stats 💻</h2>
+<br/>
+<div align="center">
+  <p><b>📈 170+ Problems Solved</b></p>
+  <a href="https://leetcode.com/medal/?showImg=0&id=8224497&isLevel=false" target="_blank">
+    <img src="https://leetcode.com/medal/?showImg=0&id=8224497&isLevel=false" width="120" />
+  </a>
+  <a href="https://leetcode.com/medal/?showImg=0&id=4000564&isLevel=false" target="_blank">
+    <img src="https://leetcode.com/medal/?showImg=0&id=4000564&isLevel=false" width="120" />
+  </a>
+</div>
 
 <hr/>
 
